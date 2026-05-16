@@ -18,7 +18,7 @@ const inter = Inter({
 });
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://mimentecrece.cl";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://mimentecrece.com";
 const SITE_NAME = "mimentecrece";
 const TITLE_DEFAULT =
   "mimentecrece · Acompañamiento clínico en salud mental · Dra. Camila Collao";
