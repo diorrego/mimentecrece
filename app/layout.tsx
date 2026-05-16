@@ -92,10 +92,6 @@ export const metadata: Metadata = {
     email: false,
     address: false,
   },
-  icons: {
-    icon: "/favicon.ico",
-    apple: "/apple-icon.png",
-  },
 };
 
 export const viewport: Viewport = {
